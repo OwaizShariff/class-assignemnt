@@ -1,0 +1,14 @@
+.p {
+    
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    width: 100vw;
+    height: 40px;
+    position: absolute;
+    list-style-type: none;
+    bottom: 0;
+    position: fixed;
+    background-color: black;
+}
